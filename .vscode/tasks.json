@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Echo Public Outreach Ready",
+      "type": "shell",
+      "command": "echo 'PAID-FR public outreach repository is ready.'",
+      "group": "build",
+      "problemMatcher": []
+    }
+  ]
+}
